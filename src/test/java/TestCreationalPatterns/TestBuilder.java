@@ -1,8 +1,8 @@
 package TestCreationalPatterns;
 
-import Builder.Computer;
-import Builder.ComputerBuilder;
-import Builder.ComputerEngineer;
+import CreationalPatterns.Builder.Computer;
+import CreationalPatterns.Builder.ComputerBuilder;
+import CreationalPatterns.Builder.ComputerEngineer;
 import org.junit.jupiter.api.Test;
 
 public class TestBuilder {

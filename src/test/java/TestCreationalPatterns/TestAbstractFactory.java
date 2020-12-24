@@ -1,8 +1,8 @@
 package TestCreationalPatterns;
 
-import AbstractFactory.Factories.DeviceLineFactory;
-import AbstractFactory.Factories.GoogleFactory;
-import AbstractFactory.ProduceLine;
+import CreationalPatterns.AbstractFactory.Factories.DeviceLineFactory;
+import CreationalPatterns.AbstractFactory.Factories.GoogleFactory;
+import CreationalPatterns.AbstractFactory.ProduceLine;
 import org.junit.jupiter.api.Test;
 
 public class TestAbstractFactory {
